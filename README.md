@@ -1,7 +1,7 @@
 #Sample Website
 
 ## info:
-* Author Urs
+* Author: Urs
 * Class: WDD 320
 * Purpuse: Example
 
