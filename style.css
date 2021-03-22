@@ -28,3 +28,9 @@
     margin:0 3rem;
     display: flex;
   }
+
+  /* Änderungen */
+  footer.mainFooter {
+      display: flex;
+      background-color: white;
+  }
